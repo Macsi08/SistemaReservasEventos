@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Celebra jugando" id="3EF00916-41FA-02EB-1830-D36A558EE075" version="3.5">
+<createdBy>macsi</createdBy>
+<createdTime>2026-06-19 17:07:23 UTC</createdTime>
+<ownerDesignName>Celebra jugando</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3EF00916-41FA-02EB-1830-D36A558EE075</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="61407162-6B9B-C4DD-6192-E9E4646D0B44">
+<designStoragePath>C:\celebra_jugando</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
